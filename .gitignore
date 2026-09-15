@@ -1,0 +1,8 @@
+# Keep bid documents out of this repository — mockup only.
+*.pdf
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.pptx
+*.zip
